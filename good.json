@@ -1,0 +1,22 @@
+{
+  "sum": {
+    "fn": "sum",
+    "args": [2,3,5,10]
+  },
+  "foo": {
+    "fn": "divide",
+    "args": [1001, 13]
+  },
+  "remove_extra_spaces": {
+    "fn": "cleanstring",
+    "args": "   The quick lazy dogs \tjump over purple    fox     \t"
+  },
+  "is_prime_number": {
+    "fn": "isprime",
+    "args": 1000000007
+  },
+  "qwerty": {
+    "fn": "do_whatever",
+    "args": 42
+  }
+}

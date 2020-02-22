@@ -1,0 +1,22 @@
+{
+  "sum": {
+    "fn": "sum",
+    "args": [2,3,5,"ten"]
+  },
+  "foo": {
+    "fn": "divide",
+    "args": [1001, 0]
+  },
+  "remove_extra_spaces": {
+    "fn": "cleanstring",
+    "args": 123
+  },
+  "is_prime_number": {
+    "fn": "isprime",
+    "args": 0
+  },
+  "qwerty": {
+    "fn": "do_whatever",
+    "args": ""
+  }
+}
